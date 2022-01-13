@@ -1,6 +1,6 @@
 # exemplo_dropdown_select
 
-Screenshot
+Image
 
-![Screenshot](Screenshot_20220112-003309.jpg)
+<img src="Screenshot_20220112-003309.jpg" width="324" height="324">
 
